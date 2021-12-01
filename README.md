@@ -3,8 +3,8 @@
 #### Hey there!
 
 I'm a male gamer named Josh. I'm currently learning C#, and I'm interested in learning Java 🤯.
+
 Check out [Roleplay Hub](https://roleplayhub.net/) the leading Minecraft roleplay community!
      
 # Contact
-  - User: @KimiNoUso#9999
-  - Guild: [Roleplay Hub](https://discord.gg/roleplayhub)
+  - Discord: @KimiNoUso#9999
